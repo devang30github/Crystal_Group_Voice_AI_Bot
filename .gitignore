@@ -1,0 +1,16 @@
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+
+# Vector database files
+# These paths might vary depending on the vector database you are using.
+# Here are common examples for FAISS and ChromaDB, and a generic directory.
+
+# FAISS (often creates a directory)
+faiss_crystal_index/
+*.faiss
+*.bin

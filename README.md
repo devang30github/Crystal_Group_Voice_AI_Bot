@@ -84,8 +84,6 @@ python ingest.py      # Convert text into FAISS vector DB
 uvicorn main:app --reload
 ```
 
-Visit: [http://localhost:8000](http://localhost:8000)
-
 ---
 
 ## 🧪 Demo Flow

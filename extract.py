@@ -1,11 +1,8 @@
-# First, make sure you have the necessary libraries installed:
-# pip install PyMuPDF easyocr opencv-python-headless numpy
-
-import fitz # PyMuPDF
+import fitz 
 import easyocr
 import io
 from PIL import Image
-import numpy as np # Import numpy
+import numpy as np 
 
 pdf_path = 'data/Crystal-Logistics-Company-Profile.pdf' # <--- Replace with the path to your PDF
 output_txt_path = 'data/extracted_text.txt' # <--- Define the output text file path
@@ -16,7 +13,7 @@ reader = easyocr.Reader(['en'])
 all_extracted_text = ""
 
 try:
-    doc = fitz.open(pdf_path) # Open the PDF document
+    doc = fitz.open(pdf_path) 
     
     for page_num in range(len(doc)):
         page = doc.load_page(page_num)

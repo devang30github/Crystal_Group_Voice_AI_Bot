@@ -118,8 +118,8 @@ async def startup_event():
             model_name="mistralai/mistral-7b-instruct",
             openai_api_key=OPENROUTER_API_KEY,
             base_url="https://openrouter.ai/api/v1",
-            temperature=0.1,  # Lower temperature for more consistent responses
-            max_tokens=1000,
+            temperature=0.7,  # Lower temperature for more consistent responses
+            max_tokens=500,
             request_timeout=60
         )
         logger.info("✅ LLM initialized")

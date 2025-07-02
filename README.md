@@ -11,7 +11,9 @@ This project is a submission for the AI Generalist role at **Crystal Group**. It
 
 ## 📸 Demo Screenshot
 
-![Crystal Voice Assistant UI Screenshot](static/demo1.png)(static/demo2.png)(static/demo3.png)
+![Crystal Voice Assistant UI Screenshot](static/demo1.png)
+![Crystal Voice Assistant UI Screenshot](static/demo2.png)
+![Crystal Voice Assistant UI Screenshot](static/demo3.png)
 
 ---
 

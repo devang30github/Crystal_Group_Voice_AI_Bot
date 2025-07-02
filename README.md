@@ -9,6 +9,10 @@ This project is a submission for the AI Generalist role at **Crystal Group**. It
 
 ---
 
+## 📸 Demo Video link
+
+Visit: [https://drive.google.com/file/d/1BKkfZPjWnUtF6JFIFN27DTpeRcZ7cAj0/view?usp=sharing](https://drive.google.com/file/d/1BKkfZPjWnUtF6JFIFN27DTpeRcZ7cAj0/view?usp=sharing)
+
 ## 📸 Demo Screenshot
 
 ![Crystal Voice Assistant UI Screenshot](static/demo1.png)
@@ -113,4 +117,4 @@ Visit: [http://localhost:8000](http://localhost:8000)
 
 ---
 
-Built with ❤️ for the Crystal Logistics AI Generalist Challenge.
+Built with ❤️ for the Crystal Groups AI Generalist Challenge.
